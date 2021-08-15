@@ -1,8 +1,8 @@
 name: Documentation
 description: Request an update to invalid/outdated documentation
 title: "[DOC] - "
-labels: ["🚦 status: awaiting triage"]
-assignees: nhcarrigan
+labels:  ["🐛 bug 🐛", "🚦 status"=>"awaiting triage 🚦", "🚧 status"=>"blocked 🚧"]
+assignees: "j-dogcoder"
 body:
   - type: markdown
     attributes:
