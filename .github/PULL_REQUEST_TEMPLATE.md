@@ -1,6 +1,6 @@
 # Pull Request
 
-<!-- Before contributing, please read our contributing guidelines https://github.com/BeccaLyria/discord-bot/blob/main/CONTRIBUTING.md -->
+<!-- Before contributing, please read our contributing guidelines. https://github.com/Heptagram-Bot/Heptagram/blob/master/CONTRIBUTING.md -->
 
 ## Description
 
@@ -23,7 +23,7 @@ Did you remember to update the `package.json` version number?
 
 ## Documentation
 
-For _any_ version updates, please verify if the [documentation page](https://www.beccalyria.com/discord-documentation) needs an update. If it does, please [create an issue there](https://github.com/BeccaLyria/discord-documentation/issues/new?assignees=nhcarrigan&labels=%F0%9F%9A%A6+status%3A+awaiting+triage&template=update.md&title=%5BUPDATE%5D) to ensure it is not forgotten.
+For _any_ version updates, please verify if the documentation page needs an update. If it does, please create an issue to ensure it is not forgotten.
 
 - [ ] My contribution does NOT require a documentation update.
 - [ ] My contribution DOES require a documentation update.
