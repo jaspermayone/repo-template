@@ -1,7 +1,7 @@
 name: Bug report
 description: Create a report to help us address an error.
 title: "[BUG] - "
-labels:  [🐛 bug 🐛,{"🚦 status"=>"awaiting triage 🚦"},{"🚧 status"=>"blocked 🚧"}]
+labels:  [🐛 bug 🐛, "🚦 status"=>"awaiting triage 🚦", "🚧 status"=>"blocked 🚧"]
 assignees: "j-dogcoder"
 body:
   - type: markdown
